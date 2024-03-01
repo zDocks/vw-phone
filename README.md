@@ -17,14 +17,11 @@ Este script representa um projeto pessoal, desprovido de quaisquer intenções c
 
 ## Imagens
 
-HOME SCREEN [WIP]
-![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/home.png)
+![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/home.png)<br><br>
 
-DIAL
-![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/dial.png)
+![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/dial.png)<br><br><br>
 
-Histórico de Chamadas [WIP]
-![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/history.png)
+![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/history.png)<br><br><br>
 
 
 ## Futuros Updates
