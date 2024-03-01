@@ -2,7 +2,7 @@
 # [WIP] VW-Phone
 
 Telemóvel para a framework QbCore, influenciado pelo Telemóvel do VRRP (Vida Real Roleplay).
-Este dispositivo representa um projeto pessoal, desprovido de quaisquer intenções comerciais ou disponibilização ao público.
+Este script representa um projeto pessoal, desprovido de quaisquer intenções comerciais ou disponibilização ao público.
 
 
 
