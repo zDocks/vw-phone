@@ -44,6 +44,7 @@ Este script representa um projeto pessoal, desprovido de quaisquer intenções c
      2024/03/01
           Identificação e resolução de bugs na aplicação de chamadas.
           Conclusão dos recursos planejados para a aplicação de chamadas.
+          Remodelação da UI geral
           Início do desenvolvimento da aplicação de contatos, incluindo sua estrutura básica e funcionalidades iniciais.
           Início do desenvolvimento tanto do client-side quanto do server-side, com foco na configuração inicial da infraestrutura e na implementação de funcionalidades básicas.
 
