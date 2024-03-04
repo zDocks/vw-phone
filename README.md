@@ -27,6 +27,12 @@ Este script representa um projeto pessoal, desprovido de quaisquer intenções c
 
 ![alt text](https://raw.githubusercontent.com/zDocks/vw-phone/main/images/newCall.png)<br><br><br>
 
+![alt text](https://cdn.discordapp.com/attachments/1017403610079952907/1213931572999360532/image.png?ex=65f744e0&is=65e4cfe0&hm=d3f8cd23bcba00cd6407a45fd672b66807839db50f3ecd546b487017408cd301&)<br><br><br>
+
+
+![alt text](https://cdn.discordapp.com/attachments/1017403610079952907/1214012356233789470/image.png?ex=65f7901c&is=65e51b1c&hm=cbad0821abcb42e7a6559973d5c18941ebb9c0599ac452093767cd1497bf4851&)<br><br><br>
+
+
 
 
 ## Futuros Updates
@@ -47,6 +53,10 @@ Este script representa um projeto pessoal, desprovido de quaisquer intenções c
           Remodelação da UI geral
           Início do desenvolvimento da aplicação de contatos, incluindo sua estrutura básica e funcionalidades iniciais.
           Início do desenvolvimento tanto do client-side quanto do server-side, com foco na configuração inicial da infraestrutura e na implementação de funcionalidades básicas.
+
+     2024/03/04
+          Inicio do desenvolvimento da aplicação de mensagens, incluido a estrutura de iniciar uma nova conversa.
+          Refeita a maneira de como as aplicações são abertas e fechadas.
 
      
 
